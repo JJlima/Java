@@ -8,6 +8,9 @@ public class cinco {
 	
 	private void syso() {
 		// TODO Auto-generated method stub
+		
+		
+		askaksjakskjbhkfbe
 
 	}
 }
